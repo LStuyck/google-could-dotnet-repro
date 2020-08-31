@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PubSubExceptionRepro": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
